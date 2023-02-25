@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2019/10/03/12/12/programmer-4523101_960_720.jpg)](https://pixabay.com/)
+<!-- [![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)] -->
 <h1 align="center">Hi 👋, I'm Khan Mohammed Aamir</h1>
 <h3 align="center">Just Want to Develop good things for everyone.</h3>
 <Image align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aamirer195@gmail.com**
   
-- 👨‍💻👨‍💻 Want to Contributes in Machine Learning and Deep Learning Projects.
+- 👨‍💻👨‍💻 Want to Contributes in Machine Learning and Deep  Learning Projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
